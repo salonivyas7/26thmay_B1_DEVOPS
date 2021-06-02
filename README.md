@@ -1,2 +1,15 @@
 #task 1
-mkdir -p A/{B/{D/K/N/LnB,E/{K/N/LnB,J/M/LnB},F/{J/M/LnB,I/N/LnB}},C/{G/{I/N/LnB,L/M/LnB},H/L/M/LnB}}
+sudo useradd -m jio
+cat /etc/passwd
+
+We will see a user named as jio in home directory.
+
+sudo deluser jio
+cat /etc/passwd
+
+We will find no user named as jio in home directory.
+
+
+
+#task-2
+
