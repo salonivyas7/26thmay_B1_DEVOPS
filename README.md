@@ -1,4 +1,4 @@
-#task 1
+
 sudo useradd -m jio
 cat /etc/passwd
 
